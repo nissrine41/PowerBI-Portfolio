@@ -1,7 +1,7 @@
 # Data-Analyst-Portfolio
 ## WHO AM I?
 I am currently a final-year student in Software and Data Engineering at ENSA Khouribga. As part of my academic program, I am seeking a final internship (PFE) in the field of data analytics and business intelligence (BI). I am passionate about exploring data and using analytical tools to generate valuable insights
-## [Business Steering Model Outputs Modeling and Visualization](https://github.com/nissrine41/Business-Steering-Model-Optimization-and-Visualization--GROUPE-OCP)
+## [Project 1: Business Steering Model Outputs Modeling and Visualization](https://github.com/nissrine41/Business-Steering-Model-Optimization-and-Visualization--GROUPE-OCP)
 
 
 **Description:**  
@@ -18,7 +18,7 @@ During my internship at GROUPE OCP, I focused on modeling and visualizing the ou
 **Key Contributions:**
 - Developed interactive dashboards to enhance decision-making capabilities and improve efficiency in sales and production planning.
 
-**Project 2:** [AliExpress Product Analysis](https://github.com/nissrine41/AliExpress-Product-Insights-An-Analytical-Dashboard)
+## [Project 2: AliExpress Product Analysis](https://github.com/nissrine41/AliExpress-Product-Insights-An-Analytical-Dashboard)
 
 **Description:**  
 This project involves analyzing products from AliExpress to derive insights that can assist in decision-making and marketing strategies. The analysis focuses on product performance, pricing strategies, and customer preferences. I utilized my own scraped data from AliExpress, ensuring a comprehensive dataset for analysis.
@@ -39,7 +39,7 @@ This project involves analyzing products from AliExpress to derive insights that
 - Recommended pricing strategies based on competitive analysis of product categories and brands.
 - Created visualizations to effectively communicate findings and support data-driven decision-making.
 
-  **Project 3:** [Earthquake Dashboard](https://github.com/nissrine41/earthquake-2023-Dashboard)
+## [Project 3: Earthquake Dashboard](https://github.com/nissrine41/earthquake-2023-Dashboard)
 
 **Description:**  
 This project involves the creation of an Earthquake Dashboard that visualizes earthquake events data. The dashboard provides insights into the characteristics of seismic events using a star schema design for data modeling.
