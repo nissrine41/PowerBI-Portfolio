@@ -1,4 +1,4 @@
-# Data Analyst 
+<img width="624" alt="star schema" src="https://github.com/user-attachments/assets/de7c5163-2b60-4cc5-988f-102766162ec1"># Data Analyst 
 ## WHO AM I?
 I am currently a final-year student in Software and Data Engineering at ENSA Khouribga. As part of my academic program, I am seeking a final internship (PFE) in the field of data analytics and business intelligence (BI). I am passionate about exploring data and using analytical tools to generate valuable insights
 ## [Project 1: Business Steering Model Outputs Modeling and Visualization](https://github.com/nissrine41/Business-Steering-Model-Optimization-and-Visualization--GROUPE-OCP)
@@ -46,6 +46,7 @@ This project involves analyzing products from AliExpress to derive insights that
 - Recommended pricing strategies based on competitive analysis of product categories and brands.
 - Created visualizations to effectively communicate findings and support data-driven decision-making.
 - [Link to my scrapped dataset:](https://github.com/nissrine41/scraped-arabic-infos-product-data-Jumia-Aliexpress-Amazon/blob/main/ALIEXPRESS_Data.rar)
+![Uploading star schema.png…]()
 
 ## [Project 3: Earthquake Dashboard](https://github.com/nissrine41/earthquake-2023-Dashboard)
 <img width="604" alt="earthquake1" src="https://github.com/user-attachments/assets/bd640148-2d93-4ca5-81d6-65634ad30562">
