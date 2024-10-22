@@ -18,7 +18,7 @@ During my internship at GROUPE OCP, I focused on modeling and visualizing the ou
 **Key Contributions:**
 - Developed interactive dashboards to enhance decision-making capabilities and improve efficiency in sales and production planning.
 
-## [Project 2: AliExpress Product Analysis](https://github.com/nissrine41/AliExpress-Product-Insights-An-Analytical-Dashboard)
+## [Project 2: AliExpress :Scrapping and Products Analysis](https://github.com/nissrine41/AliExpress-Product-Insights-An-Analytical-Dashboard)
 
 **Description:**  
 This project involves analyzing products from AliExpress to derive insights that can assist in decision-making and marketing strategies. The analysis focuses on product performance, pricing strategies, and customer preferences. I utilized my own scraped data from AliExpress, ensuring a comprehensive dataset for analysis.
@@ -38,6 +38,7 @@ This project involves analyzing products from AliExpress to derive insights that
 - Analyzed sales performance to identify high-demand products and trends.
 - Recommended pricing strategies based on competitive analysis of product categories and brands.
 - Created visualizations to effectively communicate findings and support data-driven decision-making.
+- [Link to my scrapped dataset:](https://github.com/nissrine41/scraped-arabic-infos-product-data-Jumia-Aliexpress-Amazon/blob/main/ALIEXPRESS_Data.rar)
 
 ## [Project 3: Earthquake Dashboard](https://github.com/nissrine41/earthquake-2023-Dashboard)
 
