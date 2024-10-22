@@ -1,5 +1,5 @@
 title: RIDALLAH Nissrine
-logo: /assets/images/me.jpeg
+#logo: /assets/images/me.jpeg
 description: Software and Data Engineering Student
-show_downloads: true
-theme: jekyll-theme-minimal
+show_downloads: false
+theme: Lanyon
