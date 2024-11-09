@@ -1,6 +1,10 @@
 # Data Analyst 
 ## WHO AM I?
 I am currently a final-year student in Software and Data Engineering at ENSA Khouribga. As part of my academic program, I am seeking a final internship (PFE) in the field of data analytics and business intelligence (BI). I am passionate about exploring data and using analytical tools to generate valuable insights
+
+## Certification in PowerQuery and Data Modeling from 365datascience
+![365certification](https://github.com/user-attachments/assets/5fcead3a-c2b4-4066-8735-8cc96a2abfb1)
+
 ## [Project 1: Business Steering Model Outputs Modeling and Visualization](https://github.com/nissrine41/Business-Steering-Model-Optimization-and-Visualization--GROUPE-OCP)
 
 ![ocp1](https://github.com/user-attachments/assets/5fcead3a-c2b4-4066-8735-8cc96a2abfb1)
